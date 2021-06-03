@@ -1,0 +1,17 @@
+{
+  "@sapui5/generator-sapui5-templates": {
+    "promptValues": {
+      "ApplicationTitle": "New Book Shop",
+      "ApplicationDescription": "Book Shop",
+      "FLP": true,
+      "GroupId": "$auto",
+      "ServiceBaseUri": "",
+      "DatasourceUrl": "",
+      "ObjectCollection": "stock",
+      "ObjectCollection_Key": "idStock",
+      "Object_Identifier": "New Object Title",
+      "Object_Number": "20",
+      "Object_UnitOfMeasure": ""
+    }
+  }
+}
